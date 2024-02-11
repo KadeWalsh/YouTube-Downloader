@@ -33,10 +33,9 @@ def download(url, audio_only):
 
 
 def download_songs(playlist, audio_only):
-    print(playlist)
     for song in playlist:
         song = song.strip()
-        print(song)
+
         download(song, audio_only)
 
 
