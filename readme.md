@@ -1,4 +1,4 @@
-# Simple YouTube video downloader
+# Simple YouTube video downloader built using the [pytube](https://www.pytube.io) module
 
 ## Can be run via command line arguments, or via Jupyter notebook inputs
 
