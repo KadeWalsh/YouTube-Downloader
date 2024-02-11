@@ -14,6 +14,6 @@
         >    - "--a" returns audio only (.mp3 file export)
 
 ### [playlist.txt](https://github.com/KadeWalsh/YouTube-Downloader/blob/master/playlist.txt)
-- Plain text file
+#### Plain text file
 - Contains a single link per line which is loaded into [main.py](https://github.com/KadeWalsh/YouTube-Downloader/blob/master/main.py)
 - Links may have, but do not require, 'http' prefix
