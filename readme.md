@@ -10,8 +10,8 @@
     > - Playlist filename must be valid
     > - Playlist file is read into list of links and processed one by one
     > - Download format must be either "--a" or "--v"
-        >    - "--v" results in full video download (.mp4 file export)
-        >    - "--a" returns audio only (.mp3 file export)
+    >   - "--v" results in full video download (.mp4 file export)
+    >   - "--a" returns audio only (.mp3 file export)
 
 ### [playlist.txt](https://github.com/KadeWalsh/YouTube-Downloader/blob/master/playlist.txt)
 #### Plain text file
